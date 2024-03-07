@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Find_Number_Game/static/css/main.e25015b6.css",
+    "main.js": "/Find_Number_Game/static/js/main.6b0d410b.js",
+    "static/js/453.ec85cfbd.chunk.js": "/Find_Number_Game/static/js/453.ec85cfbd.chunk.js",
+    "index.html": "/Find_Number_Game/index.html",
+    "main.e25015b6.css.map": "/Find_Number_Game/static/css/main.e25015b6.css.map",
+    "main.6b0d410b.js.map": "/Find_Number_Game/static/js/main.6b0d410b.js.map",
+    "453.ec85cfbd.chunk.js.map": "/Find_Number_Game/static/js/453.ec85cfbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e25015b6.css",
+    "static/js/main.6b0d410b.js"
+  ]
+}
