@@ -1,0 +1,45 @@
+body{
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  padding: 10px;
+  width: 500px;
+  height: 300px;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-align: center;
+  background: linear-gradient(to bottom left, rgb(59, 134, 168), rgb(185, 33, 33));
+}
+h1{
+  color: aquamarine;
+}
+p{
+  color: yellowgreen;
+  font-size: 18px;
+  font-weight: bold;
+}
+input{
+  width: 250px;
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+@media only screen and (max-width: 576px) {
+  .container{
+    width: 250px;
+    height: 300px;
+  }  
+  h1{
+    font-size: 25px;
+  }
+  p{
+    font-size: 13px;
+    padding: 10px;
+  }
+  input{
+    width: 200px;
+  }
+}
